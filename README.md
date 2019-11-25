@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-NGP/blob/master/retroarch/overlay/GameBezels/NGP/Shougi%20no%20Tatsujin%20(Japan).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-NGP/blob/master/retroarch/overlay/GameBezels/NGP/Shougi%20no%20Tatsujin%20(Japan).png?raw=true)
